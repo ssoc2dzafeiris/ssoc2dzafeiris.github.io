@@ -1,1 +1,5 @@
-# ssoc2dzafeiris.github.io
+# Dimitris Zafeiris #
+
+## Table Of Contents ##
+
+### Project 1 ###
