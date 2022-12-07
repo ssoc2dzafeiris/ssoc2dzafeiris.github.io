@@ -4,19 +4,10 @@ permalink: /index.html
 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
 <body>
     <style>
   
-    body{
+    html,body{
         background-color: #222222 !important;
         margin: 0;
         padding: 0;
@@ -33,7 +24,7 @@ permalink: /index.html
 
       .container{
         position: absolute;
-        top: 40%;
+        top: 50%;
         left: 50%;
         transform: translate(-50%,-50%);
         background-color: #434242;
@@ -107,7 +98,7 @@ permalink: /index.html
       text-align: center;
      }
      tr:nth-child(even) {background: #CCC}
-      
+
 </style>
   <div class="container">
 
@@ -139,7 +130,7 @@ permalink: /index.html
         </li>
       </ol>
     </div>    
-    
+
   </div>
   <footer >Copyright &#169; 2022</footer>
 </body>
