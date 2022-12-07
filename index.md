@@ -1,8 +1,3 @@
----
-permalink: /index.html
----
-
-
 
 <body>
     <style>
