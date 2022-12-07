@@ -40,13 +40,6 @@ permalink: /index.html
         -webkit-text-fill-color: transparent;
       }
 
-    
-    a:hover::before {
-        content:'↓';
-        position: absolute;
-        top: -20px;   /* equal to padding-top */
-        left: 50px;   /* equal to padding-left */
-    }
 
       a{
         position: relative;
