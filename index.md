@@ -1,3 +1,10 @@
+---
+permalink: /index.html
+---
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,7 +124,7 @@
       <hr/>
       <h2>Junior Software Developer</h2>
       <hr/>
-      <p>👋Hello, world</p>
+      <p>Hello, world!!!👋 I am a passionate Junior Software Developer from Greece 🇬🇷.<br/> I have just graduated from Code Bootcamp of PeopleCert Greece, in the sector of Full-stack Software Development. <br/>All the included technologies were HTML,CSS,JavaScript,jQuery,C#,SQL,AngularJS,ReactJS,Git,Scrum <br/>Tools: Visual Studio and Visual studio Code,Postman,Github</p>
     </div>
     <div id="contact">
       <ul>
@@ -129,7 +136,7 @@
     
     <div id="projects">
       <ol>
-        <li><a href="/docs/project1.html">Project1</a>
+        <li><a href="#">Project1</a>
         </li>
       </ol>
     </div>    
