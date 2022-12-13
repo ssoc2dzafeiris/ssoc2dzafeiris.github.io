@@ -11,8 +11,8 @@
         color: #F3EFE0;
       }
 
-      div {
-        padding: 3px;
+      div,h1,h2,h3,h4,p{
+        padding: 5px 10px;
         margin: 0 auto;
       
       }
@@ -99,11 +99,10 @@
     
     <div id="about">
       <h1 class="text">Dimitris Zafeiris</h1>
-      <hr/>
       <h2>Junior Software Developer</h2>
-      <hr/>
       <p>Hello, world!!!👋 I am a passionate Junior Software Developer from Greece 🇬🇷.<br/> I have just graduated from Code Bootcamp of PeopleCert Greece, in the sector of Full-stack Software Development. <br/>All the included technologies were HTML,CSS,JavaScript,jQuery,C#,SQL,AngularJS,ReactJS,Git,Scrum <br/>Tools: Visual Studio and Visual studio Code,Postman,Github</p>
     </div>
+      <hr/>
     <div id="contact">
       <ul>
         <li><a href="mailto:kremou115@gmail.com">Email</a></li>
@@ -111,7 +110,7 @@
         <li><a href="https://github.com/ssoc2dzafeiris/">Github</a></li>
       </ul>
     </div>    
-    
+    <hr/>
     <div id="projects">
       <ol>
         <li><a href="#">Project1</a>
